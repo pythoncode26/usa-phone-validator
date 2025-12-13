@@ -29,8 +29,8 @@ This tool is intended **solely for legitimate data-processing and validation pur
 ---
 
 ## 🤝 Get in Touch
-For support, licensing, or business inquiries, you may reach me on 
 
-Email    : elowenreply@gmail.com
+if you want to purchase,
 
-Telegram : [@thepythoncode97](https://t.me/thepythoncode97)
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
