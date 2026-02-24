@@ -32,5 +32,7 @@ This tool is intended **solely for legitimate data-processing and validation pur
 
 if you want to purchase,
 
+如果你想购买，
+
 - Email     : elowenreply@gmail.com
 - Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
