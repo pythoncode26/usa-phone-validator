@@ -1,8 +1,8 @@
 # USA Number Validator
 # 美国号码验证器
 
-![USA Number Validator](https://raw.githubusercontent.com/pythoncode26/usa-phone-validator/refs/heads/main/usa-phone-validator.png)
-![USA Number Validator](https://raw.githubusercontent.com/pythoncode26/usa-phone-validator/refs/heads/main/carrier-result.png)
+![USA Number Validator](https://raw.githubusercontent.com/pythonsoftware26/usa-phone-number-validator/refs/heads/main/usa-phone-number-validator-github.png)
+![USA Number Validator](https://raw.githubusercontent.com/pythonsoftware26/usa-phone-number-validator/refs/heads/main/usa-number-validator.png)
 
 ## 🚀 Features
 
